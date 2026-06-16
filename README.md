@@ -36,7 +36,14 @@ ApexForge Labs is a software, automation, and AI development studio focused on b
 - Python
 - OpenAI API
 - Workflow Automation
+---
 
+## Current Focus
+
+- AI Solutions
+- Business Automation
+- Web Applications
+- SaaS Development
 ---
 
 ## 📂 Current Projects
@@ -66,7 +73,6 @@ To build intelligent software products that help businesses save time, automate 
 - Build globally recognized software products
 - Launch SaaS solutions
 - Serve businesses worldwide
-- Reach ₹1 Crore+ annual revenue and continue growing
 
 ---
 
